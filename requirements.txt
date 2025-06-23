@@ -1,0 +1,26 @@
+# Core ML and AI dependencies
+torch>=2.1.0
+transformers>=4.35.0
+accelerate>=0.24.0
+tokenizers>=0.15.0
+
+# System monitoring and sensors
+psutil>=5.9.0
+sounddevice>=0.4.6
+
+# Data processing
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Terminal interface and logging
+rich>=13.6.0
+colorama>=0.4.6
+
+# Utilities
+python-dateutil>=2.8.2
+packaging>=23.0
+
+# Optional: Jupyter for analysis (uncomment if needed)
+# jupyter>=1.0.0
+# matplotlib>=3.7.0
+# pandas>=2.0.0 
